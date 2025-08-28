@@ -39,7 +39,7 @@ button:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin: 0 auto;
+    margin: 0.5em auto;
   }
   #log {
     font-size: 0.95em;
