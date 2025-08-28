@@ -36,6 +36,10 @@ button:hover {
     width: 100%;
     font-size: 1.1em;
     padding: 1em 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto;
   }
   #log {
     font-size: 0.95em;
