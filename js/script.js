@@ -6,7 +6,7 @@ document.getElementById('sendBtn1').onclick = function() {
 
 // WebView（ネイティブ）へメッセージ送信
 document.getElementById('sendBtn2').onclick = function() {
-  const message = { type: 'greeting', text: 'こんにちは、WebView!' };
+  const message = { type: 'modal', text: 'fugafuga' };
   sendParamToNativeApp(message);
 };
 
